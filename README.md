@@ -8,9 +8,6 @@
 void setup() {
 
 ```
-
----
-
 ## About Me
 
 - Computer Science student at the <a href="https://www.ifg.edu.br/anapolis">Federal Institute of Anápolis</a> MEC Rating: 5
@@ -25,8 +22,6 @@ void setup() {
   </a>
 
 - Focused on embedded systems
-
----
 
 ## Technologies
 
