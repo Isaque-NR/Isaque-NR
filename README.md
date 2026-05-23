@@ -1,16 +1,63 @@
-## Hi there 👋
+```cpp
+void setup() {
 
-<!--
-**Isaque-NR/Isaque-NR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```
+<div align="center">
 
-Here are some ideas to get you started:
+<img src="welcomeLCD.gif" width="750"/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+
+---
+
+## About Me
+
+- Computer Science student at the <a href="https://www.ifg.edu.br/anapolis">Federal Institute of Anápolis</a> MEC Rating: 5
+
+- Arduino and microcontroller enthusiast
+
+-  Interested in software development, embeded systems and low-level programming
+
+- Experience developing educational and hardware projects as a monitor in the Seguir Transformando Através da Robótica e outras Tecnologias (START) Program  
+  <a href="LINK_DO_SITE_DO_START">
+    <img src="fotoStart.png" width="120" align="center"/>
+  </a>
+
+- Focused on embedded systems
+
+---
+
+## Technologies
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=c,arduino,git,linux,vscode" />
+
+</div>
+
+```cpp
+}
+```
+---
+```cpp
+void loop() {
+
+```
+
+- Currently leraning ESP32 development and embedded systems 
+
+---
+
+## Contact With Me
+
+<div align="center">
+
+<a href="mailto:isaque711.nascimento@gmail.com">
+  <img src="https://skillicons.dev/icons?i=gmail" />
+</a>
+
+</div>
+
+```cpp
+}
+```
