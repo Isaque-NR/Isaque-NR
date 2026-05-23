@@ -19,7 +19,7 @@ void setup() {
 -  Interested in software development, embeded systems and low-level programming
 
 - Experience developing educational and hardware projects as a monitor in the Seguir Transformando Através da Robótica e outras Tecnologias (START) Program  
-  <a href="LINK_DO_SITE_DO_START">
+  <a href="https://numbers.ifg.edu.br/start">
     <img src="fotoStart.png" width="120" align="center"/>
   </a>
 
