@@ -44,7 +44,7 @@ void loop() {
 
 ```
 
-- Currently leraning ESP32 development and embedded systems 
+- Currently learning ESP32 development and embedded systems 
 
 ---
 
