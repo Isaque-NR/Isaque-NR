@@ -1,12 +1,13 @@
-```cpp
-void setup() {
-
-```
 <div align="center">
 
 <img src="welcomeLCD.gif" width="750"/>
 
 </div>
+
+```cpp
+void setup() {
+
+```
 
 ---
 
@@ -44,7 +45,10 @@ void loop() {
 
 ```
 
-- Currently learning ESP32 development and embedded systems 
+- Currently learning ESP32 development and embedded systems
+ ```cpp
+}
+```
 
 ---
 
@@ -57,7 +61,3 @@ void loop() {
 </a>
 
 </div>
-
-```cpp
-}
-```
